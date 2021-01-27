@@ -2,6 +2,21 @@ img { max-width:100%;
       
 }
 
+p {
+    
+    font-weight: bold;
+    text-align: center;
+  }
+
+
+
+.center {
+    display: block;
+    margin-left:36%;
+    margin-right: 64%;
+    width: auto;
+  }
+
 
 main { 
         /*display: flex;
@@ -18,10 +33,10 @@ footer {
 .paragrafo {
         font-size: 50px;
         font-family: 'Sansita Swashed', cursive;
-        text-align:left;
+        text-align:center;
 }
 
-.center {
+.center1 {
         display: block;
         margin-left: auto;
         margin-right: auto;
