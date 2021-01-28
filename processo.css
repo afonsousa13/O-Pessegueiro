@@ -3,22 +3,28 @@ img { max-width:100%;
 }
 
 
-main { 
-        /*display: flex;
-        flex-wrap: wrap;*/
-     }
 
-div { text-align: center;}
+
+main { 
+        display: flex;
+        flex-wrap: wrap;
+     
+    }
+div { text-align: left;
+
+}
 
 
 footer {
         background-color: rgba(196, 196, 196, 0.534);
+        font-size: 25px;
+        text-align: justify;
     }
     
 .paragrafo {
         font-size: 50px;
         font-family: 'Sansita Swashed', cursive;
-        text-align:left;
+        text-align:center;
 }
 
 .center {
